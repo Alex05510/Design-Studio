@@ -5,7 +5,7 @@
 ---
 
 ## Démo en ligne
-👉 [Lien vers la démo](https://Alex05510.github.io/Design-Studio/)
+👉 [Lien vers la démo](https://alex05510.github.io/Design-Studio/)
 
 ---
 
