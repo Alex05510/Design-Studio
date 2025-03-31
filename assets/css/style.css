@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000;  
+}
+
+header {
+    position: fixed;
+    margin: 1rem;
+    width: 100%;  
+    top: 0;
+    z-index: 1;
+    color: #000;
+}
+
+main {
+    margin-top: 6rem;
+    margin-left: 12rem;
+}
+
+/** nav header **/
+
+.navigation {
+    margin-left: 1rem;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menu-item {
+    margin-left: 0.5rem;
+}
+
+.column {
+    margin-right: 18% ;
+    display: inline-block; 
+}
+
+.column-main {
+    position: absolute;
+    width: 80%;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+/** main **/
+
+.container-banner{
+    background-image: url("../images/Banner-bg-image.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 70vh;
+    margin: 0 20rem;
+    position: relative;
+}
+
+.description {
+    width: 50%;
+    margin-top: 15%;
+    line-height: 2rem;
+}
+
+h1 {
+    font-size: 94.8px;
+    font-weight: 500;
+    width: 80%;
+}
+
+span {
+    font-size: 51.8px;
+    font-weight: 500;
+}
+
+h1, p {
+    font-family: "Inter", serif ;
+    color: #fff;
+}
+
+.description p {
+    color: #333;
+}
+
+.projects {
+    margin-top: 12rem;
+    color: #fff;
+    
+}
+
+.grid {
+   display: flex;
+   flex: 1 1 50%;
+   flex: 1 100%;
+   flex-wrap: wrap;
+   gap: 1rem; 
+}
+
+
+
+
+
+
+
+
+
+
